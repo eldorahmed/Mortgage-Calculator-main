@@ -5,16 +5,16 @@
 }
 
 :root {
-  --lime: hsl(61, 70%, 52%);
-  --lime-light: hsl(60, 77%, 83%);
-  --white: hsl(0, 0%, 100%);
-  --red: hsl(4, 69%, 50%);
-  --slate-100: hsl(202, 86%, 94%);
-  --slate-300: hsl(203, 41%, 72%);
-  --slate-500: hsl(200, 26%, 54%);
-  --slate-700: hsl(200, 24%, 40%);
-  --slate-900: hsl(202, 55%, 16%);
-  --slate-1000: hsl(202, 55%, 12%);
+  --lime: #d7da2f;
+  --lime-light: #f5f5b2;
+  --white: #ffffff;
+  --red: #d73328;
+  --slate-100: #e3f3fd;
+  --slate-300: #9abed5;
+  --slate-500: #6b94a8;
+  --slate-700: #4e6e7e;
+  --slate-900: #122f3f;
+  --slate-1000: #0e232f;
 }
 
 .img,
@@ -143,7 +143,7 @@ body {
 
 .calc-wrapper {
   background-color: var(--white);
-  max-width: 1200px;
+  max-width: 1300px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   border-radius: 1.5rem;

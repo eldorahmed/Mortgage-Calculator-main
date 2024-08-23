@@ -120,4 +120,3 @@ document.getElementById("reset-button").addEventListener("click", () => {
 document.querySelectorAll(".alert-message").forEach((alert) => {
   alert.style.display = "none";
 });
- 
